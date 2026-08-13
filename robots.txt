@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://bestkazik.github.io/sloty-s-bezdepozitnym-bonusom-za-registraciyu/sitemap.xml
